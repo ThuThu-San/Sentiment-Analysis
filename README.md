@@ -5,7 +5,7 @@ Sentiment Analysis of UK Development Budget Cuts in YouTube News Content
 - Sentiment Analysis
 - Python
 - Youtube API
-- Jypyter Notebook
+- Jupyter Notebook
 
 ## Description
 This project was completed as part of an academic project for Introduction to Data Science in the University of Liverpool.
